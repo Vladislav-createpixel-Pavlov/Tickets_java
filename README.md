@@ -17,13 +17,13 @@ Tickets_Java
 ├── src
 │   └── main
 │       └── java
-│           └── org.example
-│               └── FlightAnalizer.java
-│               ├── Root.java
-│               └── Ticket.java
-├── resources
-│   └── META-INF
-│       └── MANIFEST.MF
+│       │   └── org.example
+│       │       └── FlightAnalizer.java
+│       │       ├── Root.java
+│       │       └── Ticket.java
+│       └── resources
+│           └── META-INF
+│               └── MANIFEST.MF
 ├── .gitignore
 ├── pom.xml
 └── README.md
