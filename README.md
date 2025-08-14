@@ -27,7 +27,7 @@ Tickets_Java
 ├── .gitignore
 ├── pom.xml
 └── README.md
-
+```
 
 Перед архивацией необходимо запустить main метод
 Запуск из IntelijIdea
